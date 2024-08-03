@@ -1,3 +1,7 @@
+# My custom build directories
+bin
+bin-int
+
 # The canonical out-of-tree build subdirectory
 build
 build-*
